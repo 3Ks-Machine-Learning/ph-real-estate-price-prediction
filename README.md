@@ -1,0 +1,1 @@
+Machine learning pipeline for Philippine residential property price prediction. Benchmarks 7 models (XGBoost, Random Forest, Gradient Boosting, KNN, SVM, MLP, Linear Regression) on 1,451 Lamudi listings with spatial feature engineering, geo-clustering, and hierarchical missing value imputation. Best result: XGBoost at R² = 0.9272, MAPE = 23.39%.
